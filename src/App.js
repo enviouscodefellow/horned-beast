@@ -1,6 +1,4 @@
 import React from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
-
 import Header from './Header.js';
 import Footer from './Footer.js';
 import Main from './Main.js';
